@@ -40,4 +40,25 @@
  * STORE volumeTabung WITH pi MUL r MUL r MUL tinggi
  * PRINT volumeTabung
  * 
+ * 
+ * STUDY CASE 3
+ * Buatlah algoritma dan pseudocode volume "Setengah Bola"
+ * 
+ * ALGORITMA
+ * 1. Tentuka rumus VolumeSetengahBola : 2/3 x π x r²
+ * 2. Buat variable setengahBola 
+ * 3. Buat variable pi
+ * 4. Buat variable r
+ * 5. Buat variable volumeSetengahBola
+ * 6. Isi volumeTabung dengan rumus 2/3 x π x r²
+ * 7. Cetak volumeSetengahBola
+ * 
+ *  PSEUDOCODE
+ * STORE setengahBola WITH 2/3
+ * STORE pi WITH 3.14
+ * STORE r WITH NUMBER
+ * 
+ * STORE volumeSetengahBola WITH setengahBola MUL pi MUL r MUL r
+ * PRINT volumeSetengahBola
+ * 
  */
